@@ -9,4 +9,4 @@
 - Weekly **Workshop** (Tuesdays, 1:00 PM - 2:00 PM)
 - Weekly **Lab** (Tuesdays, 2:00 PM - 4:00 PM)
 
-### To use, simply click the link above to download the `.ics` file and add it to your calendar app.
+To use, simply click the link above to download the `.ics` file and add it to your calendar app.
